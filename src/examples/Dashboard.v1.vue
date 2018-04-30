@@ -39,17 +39,6 @@
         </va-small-box>
       </div>
     </row>
-
-    <row>
-      <section class="col-lg-7 connectedSortable ui-sortable">
-        <va-chat-box></va-chat-box>
-        <va-todo-list></va-todo-list>
-        <va-quick-mail></va-quick-mail>
-      </section>
-      <section class="col-lg-5 connectedSortable ui-sortable">
-        <va-calendar></va-calendar>
-      </section>
-    </row>
   </div>
 </template>
 
