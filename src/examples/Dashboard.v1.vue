@@ -38,6 +38,9 @@
           moreText="More info">
         </va-small-box>
       </div>
+      <div class="col-lg-12 col-xs-12">
+        <va-calendar></va-calendar>
+      </div>
     </row>
   </div>
 </template>

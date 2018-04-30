@@ -223,23 +223,7 @@
 
                 <p>
                   {{ currentUser.name }} - {{ currentUser.position }}
-                  <small>{{ currentUser.createdAt }}</small>
                 </p>
-              </li>
-              <!-- Menu Body -->
-              <li class="user-body">
-                <row>
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Followers</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Sales</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Friends</a>
-                  </div>
-                </row>
-                <!-- /.row -->
               </li>
               <!-- Menu Footer-->
               <li class="user-footer">
